@@ -1,0 +1,20 @@
+{
+  "name": "typeScriptPrac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgordon8/typeScriptPrac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgordon8/typeScriptPrac/issues"
+  },
+  "homepage": "https://github.com/bgordon8/typeScriptPrac#readme"
+}
